@@ -3,11 +3,11 @@
 #btn{
 	background-color: black;
 	color: white;
-	borderRadius: 5px;
+	border-radius: 5px;
 	border: none;
 }
 #btn:hover{
-	background-Color: yellow;
+	background-color: yellow;
 	color: black;
-	borderRadius: 30px;
+	border-radius: 30px;
 }
